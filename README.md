@@ -15,3 +15,5 @@ Usage
  - `make`
  - `lm4flash gcc/project0.bin`
  - Great success!
+
+(forked from https://githup.com/yuvadm/stellaris on 2012nov29)
